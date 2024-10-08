@@ -20,7 +20,7 @@ A. M. Darya, R. C. Bansal, and O. A. Jarndal, "Seasonal Performance Evaluation o
 ```
 #### BibTeX
 ```
-@inproceedings{darya2023morphological,  
+@inproceedings{darya2024seasonal,  
   title={Seasonal Performance Evaluation of a Hybrid PV-Wind-Battery Power System for a Mars Base},  
   author={Darya, Abdollah Masoud and Bansal, Ramesh C. and Jarndal, Omaima Anwar},  
   booktitle={2024 International Conference on Electric Power and Energy Conversion Systems (EPECS)},   
